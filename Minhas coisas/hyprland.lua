@@ -1,0 +1,7 @@
+require("globals")
+require("monitors")
+require("autostart")
+require("look_and_feel")
+require("input")
+require("keybinds")
+require("window_rules")
